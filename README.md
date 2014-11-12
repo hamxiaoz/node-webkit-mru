@@ -13,7 +13,7 @@ node-webkit template using coffee, jade and reactjs
 
 # How to develop?
 To develop, do the following:
-- download node-webkit binary files and put in current folder
+- download [node-webkit binary files](https://github.com/rogerwang/node-webkit#downloads) and put in current folder
 - `npm install`
 - `bower install`
 - write code in src folder
