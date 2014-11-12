@@ -1,7 +1,7 @@
 {
-  "name": "cmtool2",
-  "description": "CMTool2",
-  "version": "v0.8.20141020",
+  "name": "node-webkit-mru",
+  "description": "node-webkit-mru",
+  "version": "0.1.0",
   "main": "index.html",
   "single-instance": false,
   "window": {
@@ -11,5 +11,20 @@
     "min_width": 1024,
     "min_height": 768,
     "show": true
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-coffee": "0.7.x",
+    "grunt-contrib-jade": "0.5.x",
+    "grunt-contrib-watch": "0.4.x",
+    "grunt-contrib-concat": "0.3.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-coffee-react": "1.0.3",
+    "glob": "3.2.x"
+  },
+  "dependencies": {
+    "underscore": "1.5.x",
+    "nedb": "~0.11.1",
+    "react": "~0.12.0"
   }
 }

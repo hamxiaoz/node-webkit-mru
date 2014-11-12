@@ -1,0 +1,9 @@
+{
+  "name": "node-webkit-mru",
+  "dependencies": {
+    "jquery": "1.9.x",
+    "bootstrap-css": "3.0.x",
+    "font-awesome": "4.0.3",
+    "react": "~0.12.0"
+  }
+}
