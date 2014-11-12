@@ -1,5 +1,5 @@
 # node-webkit-mru
-node-webkit (windows version included) template using coffee, jade and reactjs
+node-webkit template using coffee, jade and reactjs
 
 # Prerequisites
 - download and install Node.js (it comes with npm)
@@ -13,6 +13,7 @@ node-webkit (windows version included) template using coffee, jade and reactjs
 
 # How to develop?
 To develop, do the following:
+- download node-webkit binary files and put in current folder
 - `npm install`
 - `bower install`
 - write code in src folder
@@ -21,5 +22,5 @@ To develop, do the following:
 
 
 # TODO
-- remove node-webkit files
+x remove node-webkit files
 - use gulp
