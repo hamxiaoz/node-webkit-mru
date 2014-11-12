@@ -1,7 +1,7 @@
 node_modules/
 bower_components/
-css
-js/
-tmp/
+/css
+/js
+/tmp
 index.html
 

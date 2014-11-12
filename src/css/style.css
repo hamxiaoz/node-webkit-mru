@@ -1,0 +1,24 @@
+/* global */
+
+body {
+  -webkit-user-select: none; /* by default, don't allow user select any text */
+}
+
+* {
+  -webkit-user-select: inherit;
+}
+
+.allow-select {
+  -webkit-user-select: text;
+}
+
+.hidden {
+  display: none;
+}
+
+/* override */
+.form-control[readonly] {
+  cursor: default;
+  background-color: #eee;
+  opacity: 1;
+}
