@@ -1,5 +1,12 @@
 # node-webkit-mru
-node-webkit template using coffee, jade and reactjs
+node-webkit template demonstrates the following:
+- coffeescript
+- jade
+- reactjs
+- [NeDB](https://github.com/louischatriot/nedb) (used to store application settings)
+
+See it in action (gif made by [LICEcap](http://www.cockos.com/licecap/))
+![demo](https://raw.githubusercontent.com/hamxiaoz/node-webkit-mru/master/demo.gif)
 
 # Prerequisites
 - download and install Node.js (it comes with npm)
